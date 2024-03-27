@@ -1,0 +1,9 @@
+{
+  "name": "shopping-be",
+  "version": "1.0.0",
+  "main": "build/index.js",
+  "repository": "https://github.com/WiseRandr/shopping-be.git",
+  "author": "Wise Randr <randriamialisonwise@gmail.com>",
+  "license": "MIT",
+  "private": true
+}
