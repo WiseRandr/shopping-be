@@ -1,0 +1,11 @@
+{
+  "compilerOptions": {
+    "baseUrl": ".",
+    "paths": {
+      "context/*": ["src/context/*"],
+      "controller/*": ["src/controller/*"],
+      "routes/*": ["src/routes/*"]
+    },
+    "resolveJsonModule": true
+  },
+}
